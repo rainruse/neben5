@@ -11,8 +11,8 @@ of Lua + Processing + Permacomputing is cool, and I wonder if there's a way to
 implement that idea with fewer sharp edges."
 
 I got going on this after getting nerd-sniped by the LÖVE duck balloon, which
-is very weird and confusing. I'm wondering, could a thing like L5 be built in a
-differently, so nobody gets ambushed by the duck balloon?
+is very weird and confusing. I'm wondering, could a thing like L5 be built
+differently, so that nobody gets ambushed by the duck balloon?
 
 Key Research Questions:
 - Can I make an interactive HTML5 playground thing for inline use in API docs?
