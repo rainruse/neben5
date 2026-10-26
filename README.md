@@ -53,8 +53,7 @@ References:
 
 I've read example code and API documentation from [L5](https://l5lua.org/),
 [p5.js](https://p5js.org/), and [Processing](https://processing.org/) to
-understand the API function interface norms expected by the Processing
-community.
+understand the API function interface expected by the Processing community.
 
 Unless otherwise noted (e.g. contents of [vendor/](vendor) directory), code and
 documentation in this repo are original work, written by me (rainruse).
