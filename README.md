@@ -45,3 +45,9 @@ References:
   [beginners](https://ashgreyseafoam.com/L5_usability_studies_beginners.pdf)
 - L5 usability report:
   [experienced](https://ashgreyseafoam.com/L5_usability_studies_experienced.pdf)
+
+
+## Copyright & License
+
+The vendored third party code in [./vendor](vendor) includes its own copyright
+and license notices. TLDR: Lua is MIT, SDL3 is Zlib.
