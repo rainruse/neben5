@@ -36,6 +36,7 @@ Hard Constraints:
 - Design for resilience
 
 References:
+- rationale/backstory: https://leetusman.com/nosebook/early-alpha-feedback-L5
 - Tusman, L., & Kuksenok, K. (2026). Designing L5: A Permacomputing Approach to
   Creative Coding. In LIMITS '26: Workshop on Computing within Limits.
   [arXiv:2606.18481](https://arxiv.org/abs/2606.18481)
