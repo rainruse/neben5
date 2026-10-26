@@ -56,7 +56,7 @@ I've read example code and API documentation from [L5](https://l5lua.org/),
 understand the API function and interface and global variables expected by the
 Processing community.
 
-Unless otherwise noted (e.g. contents of [vendor/](vendor) directory), code and
+Unless otherwise noted (e.g. [vendor/](vendor) directory), code and
 documentation in this repo are original work, written by me (rainruse).
 
 
