@@ -65,7 +65,7 @@ documentation in this repo are original work, written by me (rainruse).
 Unless otherwise noted, contents of this repository are licensed LGPL-2.1.
 
 I'm using LGPL here to follow Processing Foundation norms. This is what the
-Processing folks say about using LGPL for libraries:<br>
+Processing folks say about using LGPL for libraries:
 [FAQ#is-processing-open-source-how-bout-some-code](https://github.com/processing/processing4/wiki/FAQ#is-processing-open-source-how-bout-some-code)
 
 Third party vendored works in [vendor/](vendor) include their own copyright and
