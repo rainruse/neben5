@@ -22,6 +22,11 @@ Key Research Questions:
   first-timers to try creative coding examples in Lua on macOS, Windows, or
   Linux?
 
+My main intent here is to satisfy my curiosity about, "Are these possible?". If
+the answers turn out to be "yes", I may try to see if the L5 community wants to
+use any of this stuff. I *do not* intend to maintain this as a separate or
+competing thing. The point is to build a proof of concept to see if it works.
+
 
 ## Working Within Limits
 
