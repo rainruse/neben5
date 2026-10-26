@@ -49,10 +49,24 @@ References:
   [experienced](https://ashgreyseafoam.com/L5_usability_studies_experienced.pdf)
 
 
+## Provenance
+
+I've read example code and API documentation from [L5](https://l5lua.org/),
+[p5.js](https://p5js.org/), and [Processing](https://processing.org/) to
+understand the API function interface norms expected by the Processing
+community.
+
+Unless otherwise noted (e.g. contents of [vendor/](vendor) directory), code and
+documentation in this repo are original work, written by me (rainruse).
+
+
 ## Copyright & License
 
-The third party code in [vendor/](vendor) includes its own copyright and
-license notices. TLDR: Lua is MIT, SDL3 is Zlib.
+Unless otherwise noted, contents of this repository are licensed LGPL-2.1.
 
-This is what the Processing folks say about which licenses they use and why:<br>
+I'm using LGPL here to follow Processing Foundation norms. This is what the
+Processing folks say about using LGPL for libraries:<br>
 [FAQ#is-processing-open-source-how-bout-some-code](https://github.com/processing/processing4/wiki/FAQ#is-processing-open-source-how-bout-some-code)
+
+Third party vendored works in [vendor/](vendor) include their own copyright and
+license notices. Lua is MIT. SDL3 is Zlib.
