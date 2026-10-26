@@ -53,7 +53,7 @@ References:
 
 I've read example code and API documentation from [L5](https://l5lua.org/),
 [p5.js](https://p5js.org/), and [Processing](https://processing.org/) to
-understand the API function and interface and global variables expected by the
+understand the API function interface and global variables expected by the
 Processing community.
 
 Unless otherwise noted (e.g. [vendor/](vendor) directory), code and
