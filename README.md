@@ -39,7 +39,7 @@ References:
   Creative Coding. In LIMITS '26: Workshop on Computing within Limits.
   [arXiv:2606.18481](https://arxiv.org/abs/2606.18481)
 - AI Usage Policy stated in L5's
-  [CONTRIBUTING.md](https://github.com/L5lua/L5/blob/main/docs/CONTRIBUTING.md)
+  [CONTRIBUTING.md](https://github.com/L5lua/L5/blob/main/docs/CONTRIBUTING.md#ai-usage-policy)
 - L5 usability report:
   [beginners](https://ashgreyseafoam.com/L5_usability_studies_beginners.pdf)
 - L5 usability report:
