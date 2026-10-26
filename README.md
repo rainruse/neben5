@@ -10,9 +10,9 @@ by L5 or the Processing Foundation. It's just me saying, "Hey, L5's core idea
 of Lua + Processing + Permacomputing is cool, and I wonder if there's a way to
 implement that idea with fewer sharp edges."
 
-I got going on this after getting nerd-sniped by the LÖVE duck balloon thing.
-It's so weird and confusing. I'm wondering, could a thing like L5 be built in a
-different way so that nobody ever had to get ambushed by the duck balloon?
+I got going on this after getting nerd-sniped by the LÖVE duck balloon, which
+is very weird and confusing. I'm wondering, could a thing like L5 be built in a
+differently, so nobody gets ambushed by the duck balloon?
 
 Key Research Questions:
 - Can I make an interactive HTML5 playground thing for inline use in API docs?
