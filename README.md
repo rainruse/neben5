@@ -6,13 +6,14 @@ This experimental project explores a parallel path to [L5](https://l5lua.org/),
 asking, "What if L5 was built on SDL3 + Lua 5.4 instead of LÖVE?".
 
 This is not a fork of L5. It's not affiliated with, sponsored by, or approved
-by L5 or the Processing Foundation. It's just me saying, "Hey, L5's core idea
-of Lua + Processing + Permacomputing is cool, and I wonder if there's a way to
-implement that idea with fewer sharp edges."
+by L5 or the Processing Foundation. I'm not trying to compete with L5. This is
+just a proof of concept resulting from me getting curious, thinking, "Hey, L5's
+core idea of Lua + Processing + Permacomputing is cool, and I wonder if there's
+a way to implement that with fewer sharp edges."
 
-I got going on this after getting nerd-sniped by the LÖVE duck balloon, which
-is very weird and confusing. I'm wondering, could a thing like L5 be built
-differently, so that nobody gets ambushed by the duck balloon?
+Also, I got nerd-sniped by the LÖVE duck balloon, which is very weird and
+confusing. I'm wondering, could L5 be built differently, so that nobody ever
+gets ambushed by the duck balloon?
 
 Key Research Questions:
 - Can I make an interactive HTML5 playground thing for inline use in API docs?
@@ -21,12 +22,6 @@ Key Research Questions:
 - Can I make a low-friction install (no-install?) workflow to make it easy for
   first-timers to try creative coding examples in Lua on macOS, Windows, or
   Linux?
-
-My main intent here is to satisfy my curiosity about, "are these possible?". If
-the answers turn out to be yes, I may try to see if the L5 community wants to
-use any of this stuff. I *do not* intend to maintain this as a separate or
-competing thing. The point is to build a proof of concept to validate if the
-ideas work and are practical.
 
 
 ## Working Within Limits
