@@ -53,3 +53,6 @@ References:
 
 The third party code in [vendor/](vendor) includes its own copyright and
 license notices. TLDR: Lua is MIT, SDL3 is Zlib.
+
+This is what the Processing folks say about which licenses they use and why:
+[FAQ#is-processing-open-source-how-bout-some-code](https://github.com/processing/processing4/wiki/FAQ#is-processing-open-source-how-bout-some-code)
