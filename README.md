@@ -15,13 +15,14 @@ Also, I got nerd-sniped by the LÖVE duck balloon, which is very weird and
 confusing. I'm wondering, could L5 be built differently, so that nobody ever
 gets ambushed by the duck balloon?
 
-Key Research Questions:
-- Can I make an interactive HTML5 playground thing for inline use in API docs?
-- Can I make a tolerable HTML5 based edit and run workflow that stays true to
-  the L5/Permacomputing principle of Expose the Seams?
-- Can I make a low-friction install (no-install?) workflow to make it easy for
-  first-timers to try creative coding examples in Lua on macOS, Windows, or
-  Linux?
+Key Research Questions: Can I make...
+- Lua 5.4 + SDL3 core language engine that builds for Linux (native), web
+  (wasm), and macOS (native) with minimal platform-specific special casing?
+- interactive HTML5 playground widget for inline documentation examples?
+- reasonable HTML5 based iterative edit and run workflow, staying true to the
+  L5/Permacomputing principle of Expose the Seams?
+- low-friction workflow so first-timers can easily try creative coding in Lua,
+  in a browser, on the computer they already have?
 
 
 ## Working Within Limits
