@@ -49,5 +49,5 @@ References:
 
 ## Copyright & License
 
-The vendored third party code in [./vendor](vendor) includes its own copyright
-and license notices. TLDR: Lua is MIT, SDL3 is Zlib.
+The third party code in [vendor/](vendor) includes its own copyright and
+license notices. TLDR: Lua is MIT, SDL3 is Zlib.
